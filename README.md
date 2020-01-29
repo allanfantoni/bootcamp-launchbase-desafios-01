@@ -1,5 +1,3 @@
-# Desafio do curso Launchbase - Rocketseat
-
 # Desafio 01-1. Primeiros passos com JS
 
 Desafios para fortalecer os conhecimentos obtidos até aqui.
