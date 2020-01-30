@@ -64,6 +64,7 @@ if (condicao1) {
 }
 ```
 
+
 # Desafio 01-2. Lidando com objetos e vetores
 
 Desafios para fortalecer os conhecimentos obtidos até aqui.
